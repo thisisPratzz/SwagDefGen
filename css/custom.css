@@ -1,0 +1,84 @@
+h2 {
+    margin: 1REM;
+    margin-top: 0;
+    font-size:3vw;
+    font-weight: 600;
+ 
+  }
+
+.head {
+  margin: 2rem 2rem 2rem 2rem;
+  color: rgb(0, 162, 255);
+  ont-size:10vw;
+}
+
+.btn-success
+{
+margin: 0.5REM ;
+font-size:3vw;
+}
+
+.main
+{
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+  background: #FFEDCB;
+}
+
+.output
+{
+  margin-bottom: 0;
+  margin-left: 0.5REM;
+}
+
+.foot
+{
+  margin: 0;
+  background: #e3f2fd;
+  padding: 0.5REM;
+  font-weight: 500;
+
+}
+
+.sides {
+	border-image: linear-gradient(to left, turquoise, greenyellow) 1;
+  border-width: 0.2rem;
+}
+.btn-secondary dropdown-toggle{
+  border: 0;
+  background-color: rgb(88, 206, 186);}
+  
+.container{
+    margin: 0;
+  }
+
+input[type=checkbox] {
+    transform: scale(100%);
+    margin: 0.5rem;
+}
+
+textarea {
+  max-width: 90%;
+  max-height: 90%;
+  padding: .5REM;
+  margin: 0.5rem;
+}
+
+.select {
+  margin: 1rem;
+
+}
+
+p{
+  margin: auto;
+}
+
+.btn {
+  size: 0rem;
+}
+
+.min{
+  background: #FFEDCB;
+  padding: 1rem;
+}
